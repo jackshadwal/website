@@ -2846,9 +2846,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cypress/code-coverage@npm:^3.13.6":
-  version: 3.13.6
-  resolution: "@cypress/code-coverage@npm:3.13.6"
+"@cypress/code-coverage@npm:^3.13.10":
+  version: 3.13.10
+  resolution: "@cypress/code-coverage@npm:3.13.10"
   dependencies:
     "@cypress/webpack-preprocessor": "npm:^6.0.0"
     chalk: "npm:4.1.2"
@@ -2865,7 +2865,7 @@ __metadata:
     babel-loader: ^8.3 || ^9
     cypress: "*"
     webpack: ^4 || ^5
-  checksum: 10c0/2b4407c7edcbf6a8e83d963ebf5c99b6506c2c96f62e18df6cd0addae54b0b4f9abfc180e720b673cd0ad6ba5dbaa4e03dda0ec9b36035bcf2d338979a312511
+  checksum: 10c0/5180c8e29b49df216313f85f5d91c9d80c42d17571c1f97a3d9b6dda76f5fea04c44b27fa9d9c8e1d94eab1bf0f096036367b48b9d5989fed18a4d8950899530
   languageName: node
   linkType: hard
 
@@ -8290,7 +8290,7 @@ __metadata:
   dependencies:
     "@babel/core": "npm:^7.26.0"
     "@babel/preset-env": "npm:^7.26.0"
-    "@cypress/code-coverage": "npm:^3.13.6"
+    "@cypress/code-coverage": "npm:^3.13.10"
     "@docsearch/react": "npm:3.8.0"
     "@next/eslint-plugin-next": "npm:^14.0.1"
     "@svgr/webpack": "npm:^8.1.0"
